@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398062581064",
+    "firebase_url": "https://wasteagram-558dc.firebaseio.com",
+    "project_id": "wasteagram-558dc",
+    "storage_bucket": "wasteagram-558dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398062581064:android:582d15e87f199c43bf2f7d",
+        "android_client_info": {
+          "package_name": "oregonstate.BERGMAAU.wasteagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398062581064-t3dh59s29b6p90ijbvmc9rshjrlp2jtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsueGnHXY-XR7QWdpT-BUhIZyxASRYSWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398062581064-t3dh59s29b6p90ijbvmc9rshjrlp2jtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
